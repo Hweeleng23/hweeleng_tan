@@ -24,6 +24,7 @@ I am __Hwee Leng__, an aspiring data scientist with 20 years in market and consu
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Freelance](#freelance) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -77,6 +78,10 @@ Regression is a supervised learning technique which helps in finding the correla
 <!-- FEATURED Section Starts -->
 ## FEATURED
 <!-- Add your details -->
+
+## FREELANCE
+<!-- Add your details -->
+
 ##### Certifications
 Machine Learning by Columbia University
 
