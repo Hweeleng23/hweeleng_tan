@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/Hweeleng23/hweeleng_tan/main/images/HL.jpg)
 
 <!-- Add your details -->
 
