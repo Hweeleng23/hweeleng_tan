@@ -12,11 +12,11 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text]()
 
 <!-- Add your details -->
 
-I am __hwee leng__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Hwee Leng__, an aspiring data scientist with 20 years in market and consumer insights experience and training with BCG on data analytics.
 
 
 <!-- Add link to the sections -->
@@ -30,12 +30,12 @@ I am __hwee leng__, a seasoned data scientist with ~7 years of progressive exper
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### RISE AT BCG DIGITAL ACADEMY
+BUSINESS AND DATA ANALYTICS <br>
+Apr-2021 to Present: 4 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Trainee
+UNIT: Rise
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
